@@ -1,0 +1,70 @@
+#navitem1{
+    font-family:"Roboto";
+    color: rgb(70, 69, 67);
+}
+#navitem2{
+    font-family:"Roboto";
+    color:  rgb(70, 69, 67);
+}
+#navitem3{
+    font-family:"Roboto";
+    color: rgb(70, 69, 67);
+}
+#navitem4{
+    font-family:"Roboto";
+    color:  rgb(70, 69, 67);
+}
+.kitchen-logo{
+    width: 90px;
+    height: 90px;
+}
+.banner-section-bg-container{
+    height: 100vh;
+    background-image: url(https://www.shutterstock.com/image-photo/abstract-blurred-food-restaurant-260nw-697424737.jpg);
+    background-size: cover;
+}
+.banner-Container-card{
+    background-color: cadetblue;
+    width: 50vw;
+    height: 80vh;
+    padding: 15px;
+    margin: 25vw;
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;    
+}
+.banner-heading{
+    color: aliceblue;
+    font-family: "roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+.banner-caption{
+    color: #f5f7fa;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 300px;
+}
+.custom-button{
+    width: 110px;
+    height: 30px;
+    color: aliceblue;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.custom-button1{
+    width: 110px;
+    height: 30px;
+    color: #ffffff;
+    background-color: rgb(3, 180, 26);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    margin-right: 10px;
+    border-color: #d0b200;
+    
+}
